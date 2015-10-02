@@ -20,7 +20,9 @@
                                 <rect key="frame" x="196" y="223" width="208" height="154"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
-                                <state key="normal" title="OASIS"/>
+                                <state key="normal" title="OASIS">
+                                    <color key="titleColor" red="0.5" green="0.0" blue="0.5" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
                             </button>
                         </subviews>
                         <animations/>
